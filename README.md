@@ -1,6 +1,6 @@
 # spring-cloud-k8s-research
 
-Spring Cloud VS K8S
+Spring Cloud vs K8S
 <img alt="alt_text" src="img/p1.png" />
 
 Reference link:
